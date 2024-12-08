@@ -1,0 +1,20 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /home/santi/Documents/TP-FINAL-CEIA/Recursos/VolumenVirtualDLStreamer/produccion/14-yolov9_emotions_fullfer/datasets # dataset root dir
+train: [train/angry, train/confused, train/contempt, train/disgust, train/fear, train/happy, train/neutral, train/sad, train/sleepy, train/surprise] # train images (relative to 'path') 118287 images
+val: [valid/angry, valid/confused, valid/contempt, valid/disgust, valid/fear, valid/happy, valid/neutral, valid/sad, valid/sleepy, valid/surprise]   # val images (relative to 'path') 5000 images
+test: [test/angry, test/confused, test/contempt, test/disgust, test/fear, test/happy, test/neutral, test/sad, test/sleepy, test/surprise]   # val images (relative to 'path') 5000 images
+
+# Classes
+names:
+  0: enojo 
+  1: disgusto
+  2: miedo
+  3: felicidad
+  4: tristeza 
+  5: sorpresa 
+  6: neutral
+  7: cansado 
+  8: desprecio 
+  9: confusion

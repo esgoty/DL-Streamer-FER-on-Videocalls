@@ -1,0 +1,25 @@
+{
+  "schemaName": "tobys",
+  "dimensionFieldSpecs": [
+    {
+      "name": "tags",
+      "dataType": "STRING",
+      "singleValueField": false
+    },
+    {
+      "name": "objects",
+      "dataType": "STRING",
+      "singleValueField": false
+    }
+  ],
+  "metricFieldSpecs": [],
+  "dateTimeFieldSpecs": [
+    {
+      "name": "timestamp",
+      "dataType": "LONG",
+      "format": "1:MILLISECONDS:EPOCH",
+      "granularity": "1:HOURS"
+    }
+  ]
+  
+}

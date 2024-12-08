@@ -1,0 +1,23 @@
+description: Ultralytics YOLOv9m model trained on datafullfer.yaml
+author: Ultralytics
+date: '2024-11-02T14:01:00.881164'
+version: 8.2.38
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 256
+- 256
+names:
+  0: enojo
+  1: disgusto
+  2: miedo
+  3: felicidad
+  4: tristeza
+  5: sorpresa
+  6: neutral
+  7: cansado
+  8: desprecio
+  9: confusion

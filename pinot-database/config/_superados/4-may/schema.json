@@ -1,0 +1,30 @@
+{
+  "schemaName": "tobys",
+  "dimensionFieldSpecs": [
+    {
+      "name": "emotion",
+      "dataType": "STRING",
+      "singleValueField": false
+    },
+    {
+      "name": "confidence",
+      "dataType": "STRING",
+      "singleValueField": false
+    },
+    {
+      "name": "CALLID",
+      "dataType": "STRING",
+      "singleValueField": false
+    }
+  ],
+  "metricFieldSpecs": [],
+  "dateTimeFieldSpecs": [
+    {
+      "name": "timestampu",
+      "dataType": "LONG",
+      "format": "1:MILLISECONDS:EPOCH",
+      "granularity": "1:HOURS"
+    }
+  ]
+  
+}

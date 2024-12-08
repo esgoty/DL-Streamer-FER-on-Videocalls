@@ -1,0 +1,40 @@
+{
+  "schemaName": "movies",
+  "dimensionFieldSpecs": [
+    {
+      "name": "tags",
+      "dataType": "STRING",
+      "singleValueField": false
+    },
+    {
+      "name": "emotion",
+      "dataType": "STRING",
+      "singleValueField": false
+    },
+    {
+      "name": "emotion_confidence",
+      "dataType": "STRING",
+      "singleValueField": false
+    },
+    {
+      "name": "xcord",
+      "dataType": "STRING",
+      "singleValueField": false
+    },
+    {
+      "name": "ycord",
+      "dataType": "STRING",
+      "singleValueField": false
+    }
+  ],
+  "metricFieldSpecs": [],
+  "dateTimeFieldSpecs": [
+    {
+      "name": "timestamp",
+      "dataType": "LONG",
+      "format": "1:MILLISECONDS:EPOCH",
+      "granularity": "1:HOURS"
+    }
+  ]
+  
+}
