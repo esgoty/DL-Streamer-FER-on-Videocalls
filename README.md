@@ -1,4 +1,4 @@
-# CEIA-SPAZ-FINAL-PROJECT
+# AI based Real-time emotion recognition System (Client-Server Architecture)
 
 This repository contains the final project for SPAZ's CEIA final project.
 
