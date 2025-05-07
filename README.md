@@ -1,4 +1,5 @@
-# AI based Real-time emotion recognition System (Client-Server Architecture)
+# Real-time emotion recognition on Intel DL Streamer
+
 
 This repository contains the final project for SPAZ's CEIA final project.
 
