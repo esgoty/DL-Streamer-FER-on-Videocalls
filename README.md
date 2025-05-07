@@ -1,6 +1,6 @@
 # Real-time Emotion Recognition on Intel DL Streamer
 
-This repository contains the final project for SPAZ's CEIA final project.
+This repository contains an implementation of real-time facial emotion recognition on video calls using Intel DL Streamer (for inference and video pipelines), Apache Pinot (for saving inference results), and Streamlit & Tkinter (for metrics and dashboarding).
 
 # Preliminaries
 
