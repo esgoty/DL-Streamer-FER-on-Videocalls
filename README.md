@@ -1,5 +1,19 @@
 # Real-time Emotion Recognition on Intel DL Streamer
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Intel DL Streamer](https://img.shields.io/badge/Intel%20DL%20Stremer-%23EE4C2C.svg?style=for-the-badge&logo=intel&logoColor=#0071C5)
+![Apache Pinot](https://img.shields.io/badge/Apache%20Pinot-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20kafka-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=#FF4B4B)
+![Linux](https://img.shields.io/badge/Linux-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
+<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
 This repository contains an implementation of real-time facial emotion recognition on video calls using Intel DL Streamer (for inference and video pipelines), Apache Pinot (for saving inference results), and Streamlit & Tkinter (for metrics and dashboarding).
 
 # Preliminaries
