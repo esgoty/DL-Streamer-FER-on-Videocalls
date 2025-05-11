@@ -1,7 +1,7 @@
 # Real-time Emotion Recognition on Intel DL Streamer
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Intel DL Streamer](https://img.shields.io/badge/Intel%20DL%20Stremer-%23d9ead3.svg?style=for-the-badge&logo=intel&logoColor=blue)
+![Intel DL Streamer](https://img.shields.io/badge/Intel%20DL%20Streamer-%23d9ead3.svg?style=for-the-badge&logo=intel&logoColor=blue)
 ![Apache Pinot](https://img.shields.io/badge/Apache%20Pinot-green.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20kafka-%23FF6F00.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-017CEE?style=for-the-badge&logo=streamlit&logoColor=#FF4B4B)
